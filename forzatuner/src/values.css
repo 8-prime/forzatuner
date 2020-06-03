@@ -1,0 +1,77 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: auto;
+    text-align: left;
+    max-width: 38rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    background-color: #191716;
+    color: white;  
+}
+h6{
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+h5{
+    margin-top: 5px;
+    margin-bottom: 0.5rem;
+}
+
+h4{
+    margin: 15px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
+
+.spacer{
+    height: 10px;
+}
+
+.inputs{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.input-text{
+    text-align: center;
+    height: 35px;
+    box-shadow: 0px 0px 19px 0px #383838;
+    border-radius:24px;
+    margin: 0.5rem;
+}
+
+
+
+  
+.myButton {
+	box-shadow: 0px 0px 19px 0px #3b3b3b;
+	background-color:#44c767;
+	border-radius:24px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:5px 54px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-top: 10px;
+}
+.myButton:hover {
+	background-color:#41db68;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.vertical-center {
+    margin: 0 auto;
+  }
